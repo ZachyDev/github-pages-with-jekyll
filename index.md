@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Building websites using Github Pages
 
 I'm glad you are here. I plan to talk about ...
